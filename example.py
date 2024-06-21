@@ -1,4 +1,4 @@
-from harpy import harpyChat
+from privee import priveeAI
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -6,6 +6,6 @@ load_dotenv()
 while True:
     message = input("You: ")
 
-    hapry = harpyChat()
+    hapry = priveeAI()
     response = hapry.chat(message)
     print(response)
