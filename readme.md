@@ -1,4 +1,6 @@
 ### An API For [PriveeAI](https://www.privee.ai/)!
+![](https://github.com/DeoDorqnt387/PriveeAI-Python-API/blob/main/images/1.png)
+
 
 ## Example Usage For chatting:
 
