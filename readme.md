@@ -33,9 +33,6 @@ You need to provide some information in the .env:
 ## You can also change your username.
 ```python
 from privee import priveeAI
-from dotenv import load_dotenv
-
-load_dotenv()
 
 hapry = priveeAI()
 response = hapry.update_username("your-usename")
