@@ -30,6 +30,8 @@ You need to provide some information in the .env:
 
 > LLM # Privee-8b, Privee-70b, Privee-120b, GPT4
 
+> Run privee.py
+
 ## You can also change your username.
 ```python
 from privee import priveeAI
