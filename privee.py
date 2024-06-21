@@ -5,7 +5,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-class harpyChat:
+class PriveeAI:
 
     def __init__(self, url="https://www.privee.ai/"):
         self.url = url
